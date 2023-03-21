@@ -1,0 +1,43 @@
+	Task	Data link	Data example	Data number	Lang
+OCNLI	NLI	GitHub - CLUEbenchmark/OCNLI: OCNLI: 中文原版自然语言推理任务		5w	zh
+XNLI	NLI	XNLI		11w	zh-en
+Chinese-SNLI	NLI				zh
+Chinese-MNLI	NLI				zh
+Chinese-QQP	NLI	Quora Question Pairs | Kaggle			zh
+Chinese-STS-B	NLI	中文文本匹配数据集（ LCQMC、BQ_Corpus、STS-B、ATEC ） - 飞桨AI Studio			zh
+BQ	NLI	中文文本匹配数据集（ LCQMC、BQ_Corpus、STS-B、ATEC ） - 飞桨AI Studio			zh
+LCQMC	NLI	中文文本匹配数据集（ LCQMC、BQ_Corpus、STS-B、ATEC ） - 飞桨AI Studio		26w	zh
+opencyc	Commonsense	opencyc/opencyc-latest.owl.gz at master · asanchez75/opencyc · GitHub			en
+SemEval-2016 Task 5	Sentiment	Data and Tools &lt; SemEval-2016 Task 5			mix
+THUCTC	Sentiment	THUCTC: 一个高效的中文文本分类工具			zh
+
+toutiao-text	Classification	GitHub - aceimnorstuvwxz/toutiao-text-classfication-dataset: 今日头条中文新闻（文本）分类数据集		38w	zh
+SogouCA	Classification	sogou_news · Datasets at Hugging Face		9w	zh
+ChnSentiCorp_htl_all	Sentiment	https://raw.githubusercontent.com/SophonPlus/ChineseNlpCorpus/master/datasets/ChnSentiCorp_htl_all/ChnSentiCorp_htl_all.csv		0.7w	zh
+waimai_10k	Sentiment	https://raw.githubusercontent.com/SophonPlus/ChineseNlpCorpus/master/datasets/waimai_10k/waimai_10k.csv		1.2w	zh
+online_shopping_10_cats	Sentiment&Classification	跳转中...			zh
+weibo_senti_100k	Sentiment	ChineseNlpCorpus/intro.ipynb at master · SophonPlus/ChineseNlpCorpus · GitHub		12w	zh
+simplifyweibo_4_moods	Sentiment	simplifyweibo_4_moods_免费高速下载|百度网盘-分享无限制			zh
+dmsc_v2	Classification	Douban Movie Short Comments Dataset | Kaggle			zh
+yf_dianping	Classification	Dataset | Yongfeng Zhang			zh
+yf_amazon	Classification	ChineseNlpCorpus/intro.ipynb at master · SophonPlus/ChineseNlpCorpus · GitHub			zh
+Datahub	Sentiment&Classification	ileadall42&#46;com			zh
+知乎看山杯数据集	Classification				zh
+AI_challenger	Sentiment	GitHub - JohanyCheung/fsauor: Fine-grained Sentiment Analysis of User Reviews from AI Challenger			zh
+百度千言情感分析数据集	Sentiment	千言数据集：情感分析 - 飞桨AI Studio			zh
+Dianping	Sentiment	GitHub - zhangxiangxiao/glyph: Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?		200w	zh
+IT168TEST	Sentiment			3w	zh
+MPDD	Sentiment	MPDD: A Multi-Party Dialogue Dataset for Analysis of Emotions and Interpersonal Relationships		0.4w	zh
+PAWS-X	Paraphrase	paws/pawsx at master · google-research-datasets/paws · GitHub		5w	mix
+C3	Reading Comprehension	C3: The First Free-Form Multiple-Choice Chinese MRC Dataset		1.3w	zh
+cmrc2018	Reading Comprehension	cmrc2018/data at master · ymcui/cmrc2018 · GitHub			zh
+DRCD	Reading Comprehension	GitHub - DRCKnowledgeTeam/DRCD: A 30000+ Chinese MRC dataset - Delta Reading Comprehension Dataset		3w	zh
+NCR	Reading Comprehension	千言（LUGE）| 全面的中文开源数据集合		2w	zh
+CoNLL	Coreference	CoNLL-2012 Shared Task: Data		14w	zh
+NL2SQL	text to struct	GitHub - ZhuiyiTechnology/TableQA: NL2SQL competition dataset		4w	zh
+CSpider	text to struct	The Chinese SQL Semantic Parsing Dataset		0.6w	zh-en
+DuSQL	text to struct	2020语言与智能技术竞赛：语义解析任务 - 飞桨AI Studio		2w	zh
+CHASE	text to struct	Chase		2w	zh
+LCSTS	Summarization	LCSTS: A Large-Scale Chinese Short Text Summarization Dataset-智能计算研究中心		240w	zh
+CNewSum	Summarization	https://drive.google.com/file/d/1A_YcQ3cBAI7u9iVIoCeVLLgwU7UUzHHv/view		27w	zh
+QBSUM	Summarization	https://www.dropbox.com/sh/t2cp7ml1kb8ako0/AADmS2RMfJvLbukyQbb08CGGa?dl=0		5w	zh
